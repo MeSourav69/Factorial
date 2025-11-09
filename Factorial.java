@@ -1,11 +1,11 @@
 import java.util.Scanner;
 public class Factorial {
     public static int factorial(int n){
-     int f =1;
+     int facto =1;
      for(int i=1; i<=n;i++){
-        f*=i;   
+        facto*=i;   
      }
-     return f;
+     return facto;
     }
     public static void main(String args[]){
         /*Scanner sc= new Scanner(System.in);  // To take input from user we're using Scanner file 
@@ -16,4 +16,5 @@ public class Factorial {
     }
     
 }
+
 
