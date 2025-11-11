@@ -8,7 +8,7 @@ public class Factorial {
      return facto;
     }
     public static void main(String args[]){
-        /*Scanner sc= new Scanner(System.in);  // To take input from user we're using Scanner file 
+        /*Scanner sc= new Scanner(System.in); // To taking input from user we're using Scanner file 
         int a =sc.nextInt();
         int fact=factorial(a);
         System.out.println(fact); */
@@ -16,5 +16,6 @@ public class Factorial {
     }
     
 }
+
 
 
