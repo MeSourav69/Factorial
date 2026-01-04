@@ -1,2 +1,2 @@
 # Factorial 
-Find the Factorial of any number 
+Find the Factorial of any numbers
